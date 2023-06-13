@@ -17,12 +17,11 @@ Recommendations
 We advocate for Prism to not entirely scrap the loyalty scheme, but to make amendments to how customers are treated, based on their respective tier. This would require postponing the initial launch date and suggest a new pilot scheme for the restructured Prism+. The table below shows a suggestion for the restructuring of Prism+:
 
 Prism+ tiers  | Criteria  |Rewards 
-
-:------------------: | :------------------: | :--------------------------------------------------------------------------------------:
-  Bronze             | First Purcahse   | Welcome/birthday reward for Prism products 
-  Silver                | Spend £100 within 6 months|  Welcome/birthday reward for Prism products, exclusive Silver discounts and offers, free shipping for 2 orders
-  Gold               | Spend £50 within a year |  Welcome/birthday reward for Prism products, exclusive Gold discounts and offers, free shipping for 4 orders 
-   Platinum            | Paid subscription - £10.99 a year |  Welcome reward, birthday reward, early sale access, exclusive Platinum discounts and offers, access to exclusive brands and items, free unlimited fast-track and nominated day deliveries* (on orders £10 or over) and returns - (*T&C’s apply)
+:---: | :---: | :---:
+Bronze| First Purcahse| Welcome/birthday reward for Prism products 
+Silver| Spend £100 within 6 months|  Welcome/birthday reward for Prism products, exclusive Silver discounts and offers, free shipping for 2 orders
+Gold  | Spend £50 within a year |  Welcome/birthday reward for Prism products, exclusive Gold discounts and offers, free shipping for 4 orders 
+Platinum| Paid subscription - £10.99 a year |  Welcome reward, birthday reward, early sale access, exclusive Platinum discounts and offers, access to exclusive brands and items, free unlimited fast-track and nominated day deliveries* (on orders £10 or over) and returns - (*T&C’s apply)
 
 Note: Customers who do not purchase anything for over 1 year will be downgraded from their current tier. 
 
